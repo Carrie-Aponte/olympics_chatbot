@@ -4,7 +4,13 @@ Chatbot trained on olympics dataset!
 Original dataset collected from: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
 Data preparation steps:
-First downloaded my dataset from kaggle. Next, processed with my Preprocessing_Scripts.ipynb to normalize data, remove unnecessary or redundant columns, select which datasets to keep. Next, converted data to QA format using Question_Formatting.ipynb, where I normalized the data and the answers, generated questions for each dataset, and converted data to appropriate context/question/answer format for training a QA model. Lastly, used Combine_Datasets.ipynb to combine all QA formatted datasets into one large dataset. This finalized dataset is combined_qa_data.zip.
+First downloaded my dataset from kaggle. Original data is in olympics_original folder.
+
+Next, processed with my Preprocessing_Scripts.ipynb to normalize data, remove unnecessary or redundant columns, select which datasets to keep. This data is in First_Processed_Olympics_data.zip
+
+Next, converted data to QA format using Question_Formatting.ipynb, where I normalized the data and the answers, generated questions for each dataset, and converted data to appropriate context/question/answer format for training a QA model. This data is in QA_Datasets.zip
+
+Lastly, used Combine_Datasets.ipynb to combine all QA formatted datasets into one large dataset. This finalized dataset is combined_qa_data.zip.
 
 
 
