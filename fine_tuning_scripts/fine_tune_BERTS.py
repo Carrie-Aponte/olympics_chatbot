@@ -1,3 +1,5 @@
+################### THE SOURCE CODE FOR THE FINE-TUNING OF THE BERT MODELS CAME FROM ANOTHER STUDENT. I HEAVILY MODIFIED THE PROGRAM TO FIT MY NEEDS AND TRAIN ON MY SPECIFIC DATA. ##########################
+
 # training bert models on my olympics dataset :)
 
 import argparse
