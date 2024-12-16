@@ -1,8 +1,9 @@
 # olympics_chatbot
 Chatbot trained on olympics dataset!
 
+Original dataset collected from: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
-File rundown:
+Below is a run-down of all files in this repository (both working and non-working scripts):
 
 Working Scripts:
 
