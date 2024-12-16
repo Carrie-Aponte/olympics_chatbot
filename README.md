@@ -1,5 +1,5 @@
 # olympics_chatbot
-Chatbot trained on olympics dataset!
+Question-Answering Chatbot trained on Summer 2024 Olympics dataset!
 
 Original dataset collected from: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
