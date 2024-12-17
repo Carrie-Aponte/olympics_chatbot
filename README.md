@@ -1,6 +1,9 @@
 # olympics_chatbot
 Question-Answering Chatbot trained on Summer 2024 Olympics dataset!
 
+My final report is the file: Olympics_Chatbot_Project_Report.pdf. My final presentation is the file: Olympics_Chatbot_Presentation_Final.
+
+
 Original dataset collected from: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
 Data preparation steps:
